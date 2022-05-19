@@ -1,0 +1,70 @@
+Texto
+Es una composición de signos codificado en un sistema de escritura (como un alfabeto) que forma una unidad de sentido. Su tamaño puede ser variable. Es una composición de caracteres imprimibles (con grafema) generados por un algoritmo de cifrado que, aunque no tienen sentido para cualquier persona, si puede ser descifrado por su destinatario original.
+
+Tipos de textos
+Un texto informativo: es aquel que tiene la atención de informar, es objetivo, da los hechos: que pasó, quienes intervinieron, donde, cuándo, sin recursos estilísticos. Es el usado en diarios serios por ejemplo. Usa el verbo en Modo Indicativo.
+El texto expresivo: es subjetivo, usa recursos de estilo y su intención no es informar sino transmitir sentimientos, belleza, etc. Usa cualquier modo del verbo, y signos de entonación.
+Un texto apelativo: es el que convence, sugiere, ruega, aconseja, es el lenguaje de la propaganda por ejemplo o de las recetas de cocina. Usa el verbo en condicional o imperativo.
+Texto Argumentativo: un escrito que defiende una opinión (tesis) y que quiere persuadir de ella a un receptor mediante pruebas y razonamientos.
+Está en relación con: “la lógica (leyes del razonamiento humano), la dialéctica (procedimientos que se ponen en juego para probar o refutar algo) y la retórica (uso de recursos lingüísticos con el fin de persuadir movilizando resortes no racionales, como son los efectos, las emociones, las sugestiones…).” (Variedades discursivas: La argumentación).
+
+Texto lingüístico: de acuerdo a Greimas, es un enunciado ya sea gráfico o fónico que nos permite visualizar las palabras que escuchamos que es utilizado para manifestar el proceso lingüístico. Mientras Hjelmslev usa ese término para designar el todo de una cadena lingüística ilimitada. En lingüística no todo conjunto de signos constituye un texto. Se le llama texto a la configuración de lengua o habla y se utilizan signos específicos (signo de la lengua o habla) y está organizada según reglas del habla o idioma.* Texto como "diálogo" y texto como "monólogo": otra noción importante es que los "textos´" (y discursos) no son sólo "monologales". En lingüística, el término texto sirve tanto para producciones en que sólo hay un emisor (situaciones monogestionadas o monocontroladas) como en las que varios intercambian sus papeles (situaciones poligestionadas o policontroladas) como las gafo conversaciones.El texto contiene conectores y signos etc.
+
+Ejemplos:
+Monologales
+Oral: Una declamación, un discurso político.
+Escrita: Una carta de solicitud o una novela.
+Dialogales
+Oral: Una conversación en un bar o en un banco.
+Escrita: Una conversación por chat o por cartas.
+¿Cómo extraer de un texto una idea esencial? Hay varios pasos:
+Leer atentamente el párrafo. Identificar "núcleos" (lo importante del párrafo) y escribirlos en forma de oración simple. Identificar la información adicional. Relacionar esos núcleos a través de una oración compleja unida por uno o varios conectivos.
+
+Características
+Este texto o conjunto de signos extraídos de un discurso debe reunir condiciones de textualidad. Las principales son:
+
+Cohesión.
+Coherencia.
+Significado.
+Progresividad.
+Intencionalidad.
+Clausura o cierre.
+Adecuación.
+Carácter comunicativo.
+Acerca de la noción de Texto
+Puede afirmarse que son innumerables las propuestas de definiciones de “Texto” dentro de la literatura científica en el campo de los Estudios Lingüísticos en general. Para profundizar en las diversas definiciones de texto, es necesario partir de la consideración de dos enfoques fundamentales de la Lingüística del Texto:
+
+el Enfoque Sistémico, que ve el texto como un objeto aislado, enmarcado únicamente en el sistema de la lengua y lo analiza desde una dimensión estructural;
+el Enfoque Comunicativo, que reconoce el texto dentro de un contexto situacional determinado y bajo la influencia de diferentes factores que operan en la situación comunicativa y en el texto como producto de ésta.
+Entre los autores que han estudiado estos dos enfoques se encuentra Brinker (1997) y Ciapuscio (2005).
+
+Para Brinker (1997) el primer enfoque amplía, en relación con el texto como unidad, la jerarquía hasta entonces aceptada de las unidades lingüísticas (Fonema, Morfema/palabra, Frase, Oración). Ello significa, según Brinker : “...que no sólo se regula la construcción de palabras y de oraciones mediante el sistema de reglas de la lengua sino también la construcción (constitución) textual y ello, sobre la base de regularidades comunes, generales que precisan ser explicadas (…) El texto se define como una secuencia coherente de oraciones. Eso significa, sin embargo, que la oración todavía se considera la categoría superior en la jerarquía de las unidades lingüísticas; se considera la unidad estructural del texto. La consecuencia más importante de esta concepción es que el concepto de coherencia, esencial para la Lingüística del Texto, se concibe desde una dimensión puramente gramatical " (1997, 14)
+Ciapuscio explica esta tendencia sistémica de la siguiente forma: “…Se trata de un cuerpo teórico que mantiene un interés muy marcado por los aspectos estrictamente lingüísticos, por el sistema…” (2005, 32)
+La segunda tendencia de la Lingüística del Texto  toma en cuenta “…que los textos siempre están enmarcados en una situación comunicativa; que siempre están en un proceso de comunicación concreto en el que el emisor y receptor, dígase autor y lector, constituyen los principales factores con sus condiciones y relaciones sociales y situacionales…” (Brinker, 2001,15).
+Esta segunda “corriente” tiene sus bases en la Pragmática y en la Teoría de los Actos de Habla y ve el texto no ya exclusivamente como una secuencia cohesionada de oraciones sino más bien como una actuación lingüística. El par conceptual lengua- habla se complementa aquí con el concepto de una competencia comunicativa, convirtiendo la determinación de la Función comunicativa de un texto determinado en el objetivo de un análisis textual comunicativo.
+
+Algunas definiciones de Texto
+Partiendo de cada una de las dos orientaciones de la Lingüística del Texto anteriormente presentadas muchos autores han encarado el estudio del texto y la tarea de plantear una noción de Texto. En lo posterior se presentarán algunas definiciones representativas para dar una panorámica correcta de la evolución del término en el área de los Estudios Lingüísticos.
+Ya en la segunda mitad del siglo pasado Agricola (1969) consideraba el texto como un conjunto ordenado de oraciones que conforman un tema.
+A esta definición estructuralista se contrapone críticamente la posición de Vater (1994). Según este último no es posible enmarcar el texto solamente en el medio escrito ni limitarlo a expresiones que se componen de más de una oración. Vater (1994) da fuerza a sus consideraciones poniendo como ejemplo los proverbios a los cuales denomina textos y están constituidos por una sola oración. Para Vater (1994) como para otros autores - por ejemplo, Wawrzyniak (1980) - la cantidad de oraciones o unidades de un constructo lingüístico no es un criterio válido para calificarlo como texto.
+Petöfi (1986) sigue la tendencia estructuralista definiendo el texto como “…un objeto ordenado linealmente con un constituyente básico que consiste únicamente de signos verbales…” (1986, 1081)
+La propuesta de Petöfi no sólo se limita a contemplar la estructura del texto (lineal) sino que atribuye a éste componentes de naturaleza exclusivamente lingüística, excluyendo, por tanto, elementos pertenecientes a otros sistemas, como las imágenes.
+Superando la fase estructuralista, ya en los años 70 surge el enfoque comunicativo dentro de la Lingüística del Texto y con ello, como ya hemos advertido anteriormente, los factores externos al texto comienzan a ocupar un lugar en los estudios en torno al mismo.
+
+Dentro de las definiciones que evidencian el carácter comunicativo del texto y que reflejan una transición hacia una posición de corte pragmático- funcional se encuentran la de Isenberg (1987) y Viehweger (1991).
+Según Isenberg  “…El texto es la forma primaria de organización en la que se manifiesta el lenguaje humano. Cuando se produce una comunicación entre seres humanos es en forma de textos. (...) Un texto es, en consecuencia, una unidad comunicativa, o sea, una unidad en la que se organiza la comunicación lingüística…”
+Si bien Isenberg reconoce el texto como una unidad comunicativa, hay rasgos estructuralistas al verlo como “una unidad de organización” de la comunicación humana. No obstante,  es válida la consideración de la interacción humana en la producción del texto lo cual aporta una mirada más amplia al concepto de texto haciendo referencia implícitamente las Relaciones emisor- receptor en el proceso de comunicación así como a la contemplación de Estrategias de “organización textual” de cada uno de ellos de acuerdo a sus objetivos comunicativos.
+
+
+Linguística Textual y Conversacional de Heinemann/ Antos/ Brinker (2001): Obra donde se hace un excelente acercamiento al Texto.
+
+En este sentido, hay un análisis más profundo en la definición que ofrecen Heinemann/ Viehweger (1991). Los autores afirman: „…Por textos entendemos los resultados de actividades lingüísticas de individuos que actúan socialmente, mediante las cuales, en dependencia de la valoración cognitiva de los interactuantes así como del contexto de actuación de los productores del texto, se actualiza conocimiento de diferentes tipos que se manifiesta en los textos de manera específica (...) Siguiendo la concepción dinámica de texto, se parte de que los textos no tienen un significado, una función per se, sino sólo relativamente en relación con los contextos de interacción así como con los interlocutores, los cuales producen y recepcionan los textos.” (1991, 126).
+
+Así, los autores conciben el texto como un objeto dinámico y complejo. Dinámico, en tanto producto construido a partir de un proceso interactivo entre productor y destinatario; complejo, pues es una estructura multidimensional, resultado de una variedad de operaciones cognitivas interrelacionadas, en que se manifiestan los sistemas de conocimientos de los hablantes y se activan “zonas” específicas de éste de acuerdo al contexto.
+El texto como objeto de Traducción
+Las definiciones de texto presentadas son adaptadas por algunos autores a sus estudios, ajustándolas a las características específicas del campo de estudio.
+
+En el caso de los estudios de Traducción el texto no puede verse como objeto único sino también su desdoblamiento a una lengua de llegada, donde se dan procesos cognitivos complejos (que ocurren en el traductor como intermediario) y que tienen como resultado la asunción de estrategias y soluciones de traducción determinadas. No es adecuado en este marco  valorar aquellos factores que influyen en la comprensión del texto de la lengua de partida y su trasvase sino también en qué medida el conocimiento de la cultura meta, a la que se dirige el nuevo texto, repercute en la “construcción” del  texto de la lengua de llegada e influye en la comprensión del mismo por la comunidad receptora.
+La recepción de un texto de la lengua de partida  y la producción de un texto de la lengua de llegada son dos actividades entrelazadas que se dan en la Traducción, en el traductor como receptor, primero, del texto de la lengua de partida  y como emisor, luego, del texto de la lengua de llegada. Para ello se accede, analiza y manipula la información lingüística, conceptual y contextual que tiene a su alcance. Es aquí donde el texto deviene Unidad de Traducción Al mismo tiempo, se aplican determinadas estrategias de traducción porque es preciso conseguir los objetivos comunicativos que le plantea cada situación traslativa. Para lograrlo, hay que tener en cuenta la Función textual, el receptor, ambos contextos socioculturales, la intención del emisor, la situación comunicativa en un momento y lugar dados, el Encargo de traducción, acceder al Conocimiento enciclopédico almacenado en la Memoria a largo plazo, activar Scenes y Frames , inferir información, en fin, hacer uso de su competencia comunicativa y traductora. Estos factores guían al traductor a través del proceso de traducción y le ayudan a encontrar la solución más adecuada en cada caso.
+Aquí también hay que considerar la Direccionalidad que se da en traducción, pues de hecho en este sentido los procesos cognitivos deben considerarse variables de acuerdo con las características subjetivas del traductor en cada caso y de acuerdo a las diferencias tipológicas de las lenguas en interacción condicionado por el hecho de si se trata de una traducción directa - o sea de la lengua extranjera a la lengua materna del traductor- o de una traducción inversa, esto es, de la lengua materna del traductor a la lengua extranjera.
+Los estudios en Traductología en la actualidad. Estos estudios valoran la traducción como una unidad dialéctica proceso-producto (Translation-Translat) y no en uno de estos dos extremos. Sobre esta base, se presentan definiciones amplias que recojan explícita o implícitamente las características propias  de esta actividad sociocomunicativa.
